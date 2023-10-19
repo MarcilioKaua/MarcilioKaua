@@ -1,6 +1,5 @@
 ### Marcilio Kauã 👋
 
-- 🌱 Estudando Java 
 - 📫 Contate-me no email: marciliokaua12@gmail.com
 
 <div align="center">
